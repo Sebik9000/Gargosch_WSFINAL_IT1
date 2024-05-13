@@ -15,9 +15,7 @@
     width: 100%;
 }
 .footer .info {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+
 }
 .footer .logo {
     width: 50px; 
