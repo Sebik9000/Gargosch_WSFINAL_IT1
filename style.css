@@ -25,6 +25,6 @@
 .footer .logo {
     display: flex; 
     height: auto;
-    height: 30vh;
-    size: 30vh;
+    height: 60px;
+    size: 60px;
 }
