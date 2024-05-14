@@ -19,7 +19,6 @@
 .footer .info {
     display: flex;
     flex-direction: column;
-    gap: 10px;
     font-family: sans-serif;
 }
 .footer .logo {
@@ -27,5 +26,4 @@
     height: auto;
     height: 60px;
     size: 60px;
-    gap: 10px;
 }
