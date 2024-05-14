@@ -15,16 +15,17 @@
     bottom: 0%;
     position:fixed;
     width: 100%;
-    font-family: sans-serif;
 }
 .footer .info {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    font-family: sans-serif;
 }
 .footer .logo {
     display: flex; 
     height: auto;
     height: 60px;
     size: 60px;
+    gap: 10px;
 }
