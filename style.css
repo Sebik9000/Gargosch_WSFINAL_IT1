@@ -11,7 +11,7 @@
     justify-content: space-between;
     background-color: rgb(57, 92, 149);
     align-items: center;
-    padding: 20px;
+    padding: 10px;
     bottom: 0%;
     position:fixed;
     width: 100%;
@@ -23,7 +23,14 @@
 }
 .logo {
     display: flex; 
-    height: auto;
     height: 180px;
     size: 180px;
+}
+.header {
+    float: right;
+    display: block;
+    color: rgb(88, 132, 204);
+    text-align: center;
+    padding: 14px 16px;
+    overflow: hidden;
 }
