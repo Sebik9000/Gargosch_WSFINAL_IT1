@@ -16,17 +16,20 @@
     position:fixed;
     width: 100%;
 }
+
 .footer .info {
     display: flex;
     flex-direction: column;
     font-family: sans-serif;
 }
+
 .logo {
     display: flex; 
     height: 180px;
     size: 180px;
     padding: 14px
 }
+
 .header {
     display:block;
     background-color: rgb(88, 132, 204);
@@ -36,6 +39,7 @@
     justify-content: space-between;
     width: 100%;
 }
+
 .logohore {
     display: flex; 
     height: 200px;
