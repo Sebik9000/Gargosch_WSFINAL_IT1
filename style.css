@@ -45,6 +45,14 @@ body {
     width: 100vw;
 }
 
+.header-text {
+    font-size: 3vw;
+    text-align: center;
+    flex-grow: 1;
+    margin-top: 20px;
+    margin-bottom: -5vw; 
+}
+
 .logohore {
     display: flex; 
     height: 200px;
