@@ -1,3 +1,4 @@
+/* Základ stránek */
 body {
     display: flex;
     flex-direction: column;
@@ -7,6 +8,7 @@ body {
     background-color: rgb(88, 132, 204);
 }
 
+/* Využito na hlavní stránce bannery */
 .banner {
     height: auto;
     background-color: rgb(57, 92, 149);
@@ -16,6 +18,7 @@ body {
     margin-bottom: 20px;
 }
 
+/* Využito na každé stránce */
 .footer {
     display: flex;
     justify-content: space-between;
@@ -45,6 +48,7 @@ body {
     padding: 14px
 }
 
+/* Vrch každé stránky */
 .header {
     display: block;
     background-color: rgb(88, 132, 204);
@@ -69,6 +73,7 @@ body {
     padding: 7px; 
 }
 
+/* Užitečné odkazy na hlavní stránce */
 .uzitecne-odkazy h2 {
     font-size: 22px;
     text-align: center;
@@ -78,6 +83,7 @@ body {
     font-size: 18px;
 }
 
+/* Využito ve videích */
 .video-container {
     display: flex;
     flex-direction: column;
@@ -93,11 +99,13 @@ body {
     font-size: 18px; 
 }
 
+/* Využito ve výpisu článků */
 .clanek {
     font-size: 20px;
     padding: 20px;
 }
 
+/* Využito v individuálních článcích */
 .clanky {
     width: 80%; 
     font-size: 20px;
