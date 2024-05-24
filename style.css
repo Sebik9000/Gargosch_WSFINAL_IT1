@@ -3,6 +3,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 0;
+    overflow-x: hidden;
 }
 
 .banner {
@@ -10,7 +11,7 @@ body {
     background-color: rgb(57, 92, 149);
     text-align: center;
     padding: 20px;
-    font-size: 2vw;
+    font-size: 1.5vw;
     margin-bottom: 20px;
 }
 
@@ -52,7 +53,6 @@ body {
 .header-text {
     font-size: 3vw;
     text-align: center;
-    flex-grow: 1;
     margin-top: 20px;
     margin-bottom: -5vw; 
 }
@@ -60,7 +60,7 @@ body {
 .logohore {
     display: flex; 
     height: 200px;
-    size: 200px;
+    width: 200px;
     padding: 14px;
 }
 
