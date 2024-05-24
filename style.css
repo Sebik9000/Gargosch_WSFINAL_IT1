@@ -4,11 +4,12 @@ body {
 }
 
 .banner {
-    height: 150px;
+    height: auto;
     background-color: rgb(57, 92, 149);
     text-align: center;
-    padding: 50px;
-    font-size: 30px;
+    padding: 20px;
+    font-size: 2vw;
+    margin-bottom: 20px;
 }
 
 .footer {
