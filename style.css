@@ -98,6 +98,18 @@ body {
     padding: 20px;
 }
 
+.clanky {
+    width: 80%; 
+    font-size: 18px;
+    line-height: 1.5; 
+    margin: 0 auto; 
+}
+
+.clanky img {
+    width: 25vw; 
+    height: auto; 
+}
+
 /* Všechno pod tímhle je pouze na dropdown button */
 
 .dropbutton {
