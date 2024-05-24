@@ -93,6 +93,11 @@ body {
     font-size: 18px; 
 }
 
+.clanek {
+    font-size: 20px;
+    padding: 20px;
+}
+
 /* Všechno pod tímhle je pouze na dropdown button */
 
 .dropbutton {
